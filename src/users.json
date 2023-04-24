@@ -1,0 +1,46 @@
+{
+  "Users": [
+    {
+      "firstName": "Aman ",
+      "lastName": "Gupta",
+      "dob": "2023-04-01",
+      "email": "ag@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "Satu",
+      "lastName": "kumar",
+      "dob": "2023-04-05",
+      "email": "ag@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "Aman ",
+      "lastName": "kumar",
+      "dob": "2023-04-08",
+      "email": "ag@gmail.com",
+      "id": 3
+    },
+    {
+      "firstName": "Aman",
+      "lastName": "gupat",
+      "dob": "2023-04-01",
+      "email": "ag@gmail.com",
+      "id": 4
+    },
+    {
+      "firstName": "Anushka",
+      "lastName": "Gupta",
+      "dob": "2022-05-26",
+      "email": "ansh@gmail.com",
+      "id": 5
+    },
+    {
+      "firstName": "Aman",
+      "lastName": "kumar",
+      "dob": "2023-03-28",
+      "email": "ag@gmail.com",
+      "id": 6
+    }
+  ]
+}
